@@ -20,3 +20,7 @@ illustrating the vacuum cleaner operation ... the toolbox menu simulates the swi
 Plus: increases speed by 50 degrees
 Minus: Decreases speed by 50 degrees
 Dust: Resets speed to remove dust and restores operation when pressed again.
+
+The following image clarifies the Vacuum Cleaner’s (VC) states upon increasing and decreasing speed knowing that the maximum speed --> 10 degrees ... minimum speed --> 140 degrees.
+
+
