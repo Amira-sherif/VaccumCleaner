@@ -1,5 +1,5 @@
 # VaccumCleaner
-                                                                Industrial Vacuum Cleaner
+                               Industrial Vacuum Cleaner
 Industrial Vacuum Cleaner project based on ARM-CortexM4 processor developed in C-Language. Debugged and simulated using Keil-IDE (v5) ... the project is part of Swift Act Training (Embedded Software Design).
 Details
 The Project presents the software development of an industrial vacuum cleaner that has 3 necessary speed states: (Low Speed - Medium Speed - Max Speed) And the vacuum's motor speed is to be changed using a switch (speed can be changed multiple times using the switch till it reaches the maximum or minimum speed). Additionally, the current speed will be displayed.
