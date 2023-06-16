@@ -23,4 +23,5 @@ Dust: Resets speed to remove dust and restores operation when pressed again.
 
 The following image clarifies the Vacuum Cleaner’s (VC) states upon increasing and decreasing speed knowing that the maximum speed --> 10 degrees ... minimum speed --> 140 degrees.
 
+![image](https://github.com/Amira-sherif/VaccumCleaner/assets/81929288/2a51ec58-18e2-43fe-b976-d9cf5ce90866)
 
